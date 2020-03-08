@@ -1,12 +1,13 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping ext="t" type="EJS" />
       <mapping pattern=".env.production" type="JSON" />
       <mapping pattern="php" type="PHP" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="chw" type="PLAIN_TEXT" />
       <mapping pattern=".prettier" type="tsconfig" />
+      <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
   </component>
 </application>
