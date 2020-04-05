@@ -4,6 +4,7 @@
       <mapping ext="t" type="EJS" />
       <mapping pattern=".env.production" type="JSON" />
       <mapping pattern="php" type="PHP" />
+      <mapping pattern=".env.development" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="chw" type="PLAIN_TEXT" />
       <mapping pattern=".prettier" type="tsconfig" />
