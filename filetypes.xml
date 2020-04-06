@@ -7,6 +7,7 @@
       <mapping pattern=".env.development" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="chw" type="PLAIN_TEXT" />
+      <mapping ext="traineddata" type="PLAIN_TEXT" />
       <mapping pattern=".prettier" type="tsconfig" />
       <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
