@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="t" type="EJS" />
       <mapping pattern=".env.production" type="JSON" />
+      <mapping ext="tpl" type="JSON" />
       <mapping pattern="php" type="PHP" />
       <mapping pattern=".env.development" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
